@@ -27,6 +27,7 @@ If you closed the cachyos hello app just call it back by typing `cachyos-hello` 
 git clone https://github.com/FROSTdrgn/dotsetup ~/.setup
 cd ~/.setup
 make install
+link-config-paths
 ```
 
 This will setup basics. You can then easily grab your dotfiles or other resources.
