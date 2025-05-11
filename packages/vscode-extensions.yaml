@@ -1,0 +1,5 @@
+main:
+ - EditorConfig.EditorConfig
+ - britesnow.vscode-toggle-quotes
+ - esbenp.prettier-vscode
+ - ms-vscode.makefile-tools

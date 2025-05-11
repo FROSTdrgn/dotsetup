@@ -1,0 +1,14 @@
+main:
+  # runtimes & package managers
+  - gnome-keyring
+  - git
+  - nodejs
+  - python
+  - pnpm
+
+  # extra tools
+  - jq
+  - btop
+
+aur:
+  - aur/git-credential-oauth

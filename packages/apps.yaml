@@ -1,0 +1,8 @@
+main:
+ - ghostty
+ - discord
+
+aur:
+ - aur/visual-studio-code-bin
+ - aur/google-chrome
+
